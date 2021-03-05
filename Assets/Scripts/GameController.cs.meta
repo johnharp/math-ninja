@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 27d6b7b708b234026a4a8353589be409
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - QuestionText: {instanceID: 0}
+  - AnswerCoinPrefab: {instanceID: 0}
+  - CoinSound: {fileID: 8300000, guid: 3af41d415965740e1b2a0439aef43f99, type: 3}
+  - WrongAnswerSound: {fileID: 8300000, guid: bfce360400d2e448b9ae1a06ab78156e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
