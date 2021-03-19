@@ -152,6 +152,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: stone-block (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 5983013400863962620, guid: 5061e6147ee6a42ebbce544b6f4fa741, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 6362528893434703686, guid: 5061e6147ee6a42ebbce544b6f4fa741, type: 3}
       propertyPath: m_RootOrder
       value: 11
@@ -213,6 +217,14 @@ PrefabInstance:
     - target: {fileID: 2786164879082861943, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
       propertyPath: m_Name
       value: Tile.Dirt.02 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2786164879082861943, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 3148117459284647102, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 4037720724158096327, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
       propertyPath: m_RootOrder
@@ -280,6 +292,14 @@ PrefabInstance:
     - target: {fileID: 2786164879082861943, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
       propertyPath: m_Name
       value: Tile.Dirt.02 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2786164879082861943, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 3148117459284647102, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 4037720724158096327, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
       propertyPath: m_RootOrder
@@ -356,6 +376,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence E2 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 6046095855436746551, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 6387191177643595149, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
       propertyPath: m_RootOrder
       value: 22
@@ -428,6 +452,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: stone-block (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 5983013400863962620, guid: 5061e6147ee6a42ebbce544b6f4fa741, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 6362528893434703686, guid: 5061e6147ee6a42ebbce544b6f4fa741, type: 3}
       propertyPath: m_RootOrder
       value: 7
@@ -488,7 +516,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &66537303
 Transform:
@@ -580,6 +608,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 66537303}
     m_Modifications:
+    - target: {fileID: 4682423392260482004, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 5297919291055329019, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
       propertyPath: m_RootOrder
       value: 29
@@ -628,6 +660,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Dirt.03 (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 9076861554426375828, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
 --- !u!4 &75217603 stripped
@@ -647,6 +683,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 284194475}
     m_Modifications:
+    - target: {fileID: 4682423392260482004, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 5297919291055329019, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
       propertyPath: m_RootOrder
       value: 60
@@ -695,6 +735,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Dirt.03 (24)
       objectReference: {fileID: 0}
+    - target: {fileID: 9076861554426375828, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
 --- !u!1001 &106076240
@@ -707,6 +751,14 @@ PrefabInstance:
     - target: {fileID: 2786164879082861943, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
       propertyPath: m_Name
       value: Tile.Dirt.02 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2786164879082861943, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 3148117459284647102, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 4037720724158096327, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
       propertyPath: m_RootOrder
@@ -765,6 +817,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence F1
       objectReference: {fileID: 0}
+    - target: {fileID: 6046095855436746551, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 6387191177643595149, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
       propertyPath: m_RootOrder
       value: 17
@@ -822,6 +878,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Stone.03 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 6436566585233153207, guid: 2f3e1b22c28324db7875bc54aaa0cb2b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 7544708442210085666, guid: 2f3e1b22c28324db7875bc54aaa0cb2b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 7714751358014100393, guid: 2f3e1b22c28324db7875bc54aaa0cb2b, type: 3}
       propertyPath: m_RootOrder
       value: 12
@@ -878,6 +942,14 @@ PrefabInstance:
     - target: {fileID: 1039370665492924418, guid: dcd30c6a89497495791c177683ddb8fc, type: 3}
       propertyPath: m_Name
       value: Tile.Stone.01 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1039370665492924418, guid: dcd30c6a89497495791c177683ddb8fc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 2222993684677786427, guid: dcd30c6a89497495791c177683ddb8fc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 7463764270453165658, guid: dcd30c6a89497495791c177683ddb8fc, type: 3}
       propertyPath: m_RootOrder
@@ -937,6 +1009,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 66537303}
     m_Modifications:
+    - target: {fileID: 4682423392260482004, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 5297919291055329019, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
       propertyPath: m_RootOrder
       value: 42
@@ -985,6 +1061,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Dirt.03 (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 9076861554426375828, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
 --- !u!4 &137951799 stripped
@@ -999,6 +1079,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 284194475}
     m_Modifications:
+    - target: {fileID: 4682423392260482004, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 5297919291055329019, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
       propertyPath: m_RootOrder
       value: 27
@@ -1047,6 +1131,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Dirt.03 (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 9076861554426375828, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
 --- !u!4 &141970921 stripped
@@ -1064,6 +1152,10 @@ PrefabInstance:
     - target: {fileID: 6046095855436746551, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
       propertyPath: m_Name
       value: fence A1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6046095855436746551, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 6387191177643595149, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
       propertyPath: m_RootOrder
@@ -1121,6 +1213,14 @@ PrefabInstance:
     - target: {fileID: 2786164879082861943, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
       propertyPath: m_Name
       value: Tile.Dirt.02 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2786164879082861943, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 3148117459284647102, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 4037720724158096327, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
       propertyPath: m_RootOrder
@@ -1180,6 +1280,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 284194475}
     m_Modifications:
+    - target: {fileID: 4682423392260482004, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 5297919291055329019, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
       propertyPath: m_RootOrder
       value: 29
@@ -1227,6 +1331,10 @@ PrefabInstance:
     - target: {fileID: 9076861554426375828, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
       propertyPath: m_Name
       value: Tile.Dirt.03 (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9076861554426375828, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
@@ -1278,9 +1386,17 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 284194475}
     m_Modifications:
+    - target: {fileID: 3151940741389735705, guid: 01ff634b9ae7a495dba24d3980e6d0f7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 3743789377015876673, guid: 01ff634b9ae7a495dba24d3980e6d0f7, type: 3}
       propertyPath: m_Name
       value: Tile.Dirt.01 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3743789377015876673, guid: 01ff634b9ae7a495dba24d3980e6d0f7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 8780744994439628034, guid: 01ff634b9ae7a495dba24d3980e6d0f7, type: 3}
       propertyPath: m_RootOrder
@@ -1335,6 +1451,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 284194475}
     m_Modifications:
+    - target: {fileID: 4682423392260482004, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 5297919291055329019, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
       propertyPath: m_RootOrder
       value: 31
@@ -1383,6 +1503,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Dirt.03 (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 9076861554426375828, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
 --- !u!1001 &235767395
@@ -1392,9 +1516,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 396904398}
     m_Modifications:
+    - target: {fileID: 1016050265, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 1310753598, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 1689347575871606494, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
       propertyPath: m_Name
       value: Sign D
+      objectReference: {fileID: 0}
+    - target: {fileID: 1689347575871606494, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 1891718905972957958, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
       propertyPath: Barriers.Array.size
@@ -1470,6 +1606,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence E2
       objectReference: {fileID: 0}
+    - target: {fileID: 6046095855436746551, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 6387191177643595149, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
       propertyPath: m_RootOrder
       value: 13
@@ -1533,6 +1673,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 66537303}
     m_Modifications:
+    - target: {fileID: 4682423392260482004, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 5297919291055329019, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
       propertyPath: m_RootOrder
       value: 32
@@ -1581,6 +1725,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Dirt.03 (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 9076861554426375828, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
 --- !u!4 &273277883 stripped
@@ -1595,6 +1743,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 66537303}
     m_Modifications:
+    - target: {fileID: 4682423392260482004, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 5297919291055329019, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
       propertyPath: m_RootOrder
       value: 26
@@ -1643,6 +1795,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Dirt.03 (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 9076861554426375828, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
 --- !u!4 &274873422 stripped
@@ -1664,7 +1820,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &284194475
 Transform:
@@ -1756,6 +1912,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Stone.01 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 1039370665492924418, guid: dcd30c6a89497495791c177683ddb8fc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 2222993684677786427, guid: dcd30c6a89497495791c177683ddb8fc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 7463764270453165658, guid: dcd30c6a89497495791c177683ddb8fc, type: 3}
       propertyPath: m_RootOrder
       value: 21
@@ -1846,6 +2010,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Stone.01 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1039370665492924418, guid: dcd30c6a89497495791c177683ddb8fc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 2222993684677786427, guid: dcd30c6a89497495791c177683ddb8fc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 7463764270453165658, guid: dcd30c6a89497495791c177683ddb8fc, type: 3}
       propertyPath: m_RootOrder
       value: 14
@@ -1902,6 +2074,14 @@ PrefabInstance:
     - target: {fileID: 2786164879082861943, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
       propertyPath: m_Name
       value: Tile.Dirt.02 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2786164879082861943, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 3148117459284647102, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 4037720724158096327, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
       propertyPath: m_RootOrder
@@ -1985,6 +2165,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Stone.03 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 6436566585233153207, guid: 2f3e1b22c28324db7875bc54aaa0cb2b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 7544708442210085666, guid: 2f3e1b22c28324db7875bc54aaa0cb2b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 7714751358014100393, guid: 2f3e1b22c28324db7875bc54aaa0cb2b, type: 3}
       propertyPath: m_RootOrder
       value: 12
@@ -2041,6 +2229,14 @@ PrefabInstance:
     - target: {fileID: 1039370665492924418, guid: dcd30c6a89497495791c177683ddb8fc, type: 3}
       propertyPath: m_Name
       value: Tile.Stone.01 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1039370665492924418, guid: dcd30c6a89497495791c177683ddb8fc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 2222993684677786427, guid: dcd30c6a89497495791c177683ddb8fc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 7463764270453165658, guid: dcd30c6a89497495791c177683ddb8fc, type: 3}
       propertyPath: m_RootOrder
@@ -2114,6 +2310,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Stone.03 (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 6436566585233153207, guid: 2f3e1b22c28324db7875bc54aaa0cb2b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 7544708442210085666, guid: 2f3e1b22c28324db7875bc54aaa0cb2b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 7714751358014100393, guid: 2f3e1b22c28324db7875bc54aaa0cb2b, type: 3}
       propertyPath: m_RootOrder
       value: 49
@@ -2170,6 +2374,10 @@ PrefabInstance:
     - target: {fileID: 5983013400863962620, guid: 5061e6147ee6a42ebbce544b6f4fa741, type: 3}
       propertyPath: m_Name
       value: stone-block (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5983013400863962620, guid: 5061e6147ee6a42ebbce544b6f4fa741, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 6362528893434703686, guid: 5061e6147ee6a42ebbce544b6f4fa741, type: 3}
       propertyPath: m_RootOrder
@@ -2236,7 +2444,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &396904398
 Transform:
@@ -2290,7 +2498,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &400744372
 Transform:
@@ -2356,7 +2564,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &409704141
 Transform:
@@ -2432,6 +2640,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Dirt.02 (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 2786164879082861943, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 3148117459284647102, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 4037720724158096327, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
       propertyPath: m_RootOrder
       value: 60
@@ -2504,6 +2720,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Dirt.02 (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 2786164879082861943, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 3148117459284647102, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 4037720724158096327, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
       propertyPath: m_RootOrder
       value: 52
@@ -2560,6 +2784,10 @@ PrefabInstance:
     - target: {fileID: 6046095855436746551, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
       propertyPath: m_Name
       value: fence D1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6046095855436746551, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 6387191177643595149, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
       propertyPath: m_RootOrder
@@ -2642,6 +2870,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 66537303}
     m_Modifications:
+    - target: {fileID: 4682423392260482004, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 5297919291055329019, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
       propertyPath: m_RootOrder
       value: 47
@@ -2690,6 +2922,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Dirt.03 (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 9076861554426375828, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
 --- !u!1 &481487311 stripped
@@ -2717,6 +2953,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 284194475}
     m_Modifications:
+    - target: {fileID: 4682423392260482004, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 5297919291055329019, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
       propertyPath: m_RootOrder
       value: 32
@@ -2765,6 +3005,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Dirt.03 (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 9076861554426375828, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
 --- !u!4 &496948519 stripped
@@ -2804,9 +3048,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 396904398}
     m_Modifications:
+    - target: {fileID: 1016050265, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 1310753598, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 1689347575871606494, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
       propertyPath: m_Name
       value: Sign F (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1689347575871606494, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 1891718905972957958, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
       propertyPath: Barriers.Array.size
@@ -2897,6 +3153,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Dirt.02 (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 2786164879082861943, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 3148117459284647102, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 4037720724158096327, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
       propertyPath: m_RootOrder
       value: 55
@@ -2954,6 +3218,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Stone.03 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 6436566585233153207, guid: 2f3e1b22c28324db7875bc54aaa0cb2b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 7544708442210085666, guid: 2f3e1b22c28324db7875bc54aaa0cb2b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 7714751358014100393, guid: 2f3e1b22c28324db7875bc54aaa0cb2b, type: 3}
       propertyPath: m_RootOrder
       value: 18
@@ -3010,6 +3282,14 @@ PrefabInstance:
     - target: {fileID: 2786164879082861943, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
       propertyPath: m_Name
       value: Tile.Dirt.02 (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2786164879082861943, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 3148117459284647102, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 4037720724158096327, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
       propertyPath: m_RootOrder
@@ -3088,6 +3368,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Dirt.02 (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 2786164879082861943, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 3148117459284647102, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 4037720724158096327, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
       propertyPath: m_RootOrder
       value: 61
@@ -3144,6 +3432,10 @@ PrefabInstance:
     - target: {fileID: 6046095855436746551, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
       propertyPath: m_Name
       value: fence F2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6046095855436746551, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 6387191177643595149, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
       propertyPath: m_RootOrder
@@ -3202,6 +3494,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Dirt.02 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 2786164879082861943, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 3148117459284647102, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 4037720724158096327, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
       propertyPath: m_RootOrder
       value: 25
@@ -3255,6 +3555,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 66537303}
     m_Modifications:
+    - target: {fileID: 4682423392260482004, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 5297919291055329019, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
       propertyPath: m_RootOrder
       value: 50
@@ -3303,6 +3607,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Dirt.03 (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 9076861554426375828, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
 --- !u!1001 &606830736
@@ -3312,6 +3620,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 66537303}
     m_Modifications:
+    - target: {fileID: 4682423392260482004, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 5297919291055329019, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
       propertyPath: m_RootOrder
       value: 51
@@ -3360,6 +3672,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Dirt.03 (18)
       objectReference: {fileID: 0}
+    - target: {fileID: 9076861554426375828, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
 --- !u!1 &607144371 stripped
@@ -3392,6 +3708,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 284194475}
     m_Modifications:
+    - target: {fileID: 4682423392260482004, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 5297919291055329019, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
       propertyPath: m_RootOrder
       value: 9
@@ -3440,6 +3760,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Dirt.03 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 9076861554426375828, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
 --- !u!4 &624248172 stripped
@@ -3472,6 +3796,14 @@ PrefabInstance:
     - target: {fileID: 2786164879082861943, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
       propertyPath: m_Name
       value: Tile.Dirt.02 (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2786164879082861943, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 3148117459284647102, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 4037720724158096327, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
       propertyPath: m_RootOrder
@@ -3588,6 +3920,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence B1
       objectReference: {fileID: 0}
+    - target: {fileID: 6046095855436746551, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 6387191177643595149, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
       propertyPath: m_RootOrder
       value: 4
@@ -3655,6 +3991,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Dirt.02 (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 2786164879082861943, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 3148117459284647102, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 4037720724158096327, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
       propertyPath: m_RootOrder
       value: 62
@@ -3718,9 +4062,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 396904398}
     m_Modifications:
+    - target: {fileID: 1016050265, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 1310753598, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 1689347575871606494, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
       propertyPath: m_Name
       value: Sign B
+      objectReference: {fileID: 0}
+    - target: {fileID: 1689347575871606494, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 1891718905972957958, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
       propertyPath: Barriers.Array.size
@@ -3857,6 +4213,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence F1
       objectReference: {fileID: 0}
+    - target: {fileID: 6046095855436746551, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 6387191177643595149, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
       propertyPath: m_RootOrder
       value: 17
@@ -3919,7 +4279,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &714775116
 Transform:
@@ -3996,9 +4356,17 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 66537303}
     m_Modifications:
+    - target: {fileID: 55060011716693018, guid: 5c15fa69ac79d409d8f6db44fe24de5c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 2957621329886039765, guid: 5c15fa69ac79d409d8f6db44fe24de5c, type: 3}
       propertyPath: m_Name
       value: Tile.Stone.02 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2957621329886039765, guid: 5c15fa69ac79d409d8f6db44fe24de5c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 8357678020348872535, guid: 5c15fa69ac79d409d8f6db44fe24de5c, type: 3}
       propertyPath: m_RootOrder
@@ -4072,6 +4440,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence G1
       objectReference: {fileID: 0}
+    - target: {fileID: 6046095855436746551, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 6387191177643595149, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
       propertyPath: m_RootOrder
       value: 19
@@ -4134,6 +4506,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Dirt.02 (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 2786164879082861943, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 3148117459284647102, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 4037720724158096327, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
       propertyPath: m_RootOrder
       value: 52
@@ -4187,6 +4567,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 66537303}
     m_Modifications:
+    - target: {fileID: 4682423392260482004, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 5297919291055329019, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
       propertyPath: m_RootOrder
       value: 56
@@ -4235,6 +4619,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Dirt.03 (21)
       objectReference: {fileID: 0}
+    - target: {fileID: 9076861554426375828, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
 --- !u!1001 &761333707
@@ -4244,6 +4632,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 66537303}
     m_Modifications:
+    - target: {fileID: 4682423392260482004, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 5297919291055329019, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
       propertyPath: m_RootOrder
       value: 31
@@ -4292,6 +4684,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Dirt.03 (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 9076861554426375828, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
 --- !u!4 &761333708 stripped
@@ -4309,6 +4705,10 @@ PrefabInstance:
     - target: {fileID: 6046095855436746551, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
       propertyPath: m_Name
       value: fence B2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6046095855436746551, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 6387191177643595149, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
       propertyPath: m_RootOrder
@@ -4372,6 +4772,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Stone.03 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 6436566585233153207, guid: 2f3e1b22c28324db7875bc54aaa0cb2b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 7544708442210085666, guid: 2f3e1b22c28324db7875bc54aaa0cb2b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 7714751358014100393, guid: 2f3e1b22c28324db7875bc54aaa0cb2b, type: 3}
       propertyPath: m_RootOrder
       value: 18
@@ -4432,7 +4840,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &787600365
 Transform:
@@ -4461,6 +4869,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 284194475}
     m_Modifications:
+    - target: {fileID: 4682423392260482004, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 5297919291055329019, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
       propertyPath: m_RootOrder
       value: 22
@@ -4509,6 +4921,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Dirt.03 (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 9076861554426375828, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
 --- !u!1001 &792075279
@@ -4521,6 +4937,14 @@ PrefabInstance:
     - target: {fileID: 1039370665492924418, guid: dcd30c6a89497495791c177683ddb8fc, type: 3}
       propertyPath: m_Name
       value: Tile.Stone.01 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1039370665492924418, guid: dcd30c6a89497495791c177683ddb8fc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 2222993684677786427, guid: dcd30c6a89497495791c177683ddb8fc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 7463764270453165658, guid: dcd30c6a89497495791c177683ddb8fc, type: 3}
       propertyPath: m_RootOrder
@@ -4584,6 +5008,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence C1
       objectReference: {fileID: 0}
+    - target: {fileID: 6046095855436746551, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 6387191177643595149, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
       propertyPath: m_RootOrder
       value: 7
@@ -4641,6 +5069,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence E1 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 6046095855436746551, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 6387191177643595149, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
       propertyPath: m_RootOrder
       value: 21
@@ -4694,9 +5126,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 400744372}
     m_Modifications:
+    - target: {fileID: 1016050265, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 1310753598, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 1689347575871606494, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
       propertyPath: m_Name
       value: Sign F
+      objectReference: {fileID: 0}
+    - target: {fileID: 1689347575871606494, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 1891718905972957958, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
       propertyPath: Barriers.Array.size
@@ -4783,6 +5227,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 66537303}
     m_Modifications:
+    - target: {fileID: 4682423392260482004, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 5297919291055329019, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
       propertyPath: m_RootOrder
       value: 24
@@ -4830,6 +5278,10 @@ PrefabInstance:
     - target: {fileID: 9076861554426375828, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
       propertyPath: m_Name
       value: Tile.Dirt.03 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9076861554426375828, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
@@ -4863,6 +5315,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 284194475}
     m_Modifications:
+    - target: {fileID: 4682423392260482004, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 5297919291055329019, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
       propertyPath: m_RootOrder
       value: 24
@@ -4911,6 +5367,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Dirt.03 (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 9076861554426375828, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
 --- !u!1001 &843528219
@@ -4923,6 +5383,10 @@ PrefabInstance:
     - target: {fileID: 5983013400863962620, guid: 5061e6147ee6a42ebbce544b6f4fa741, type: 3}
       propertyPath: m_Name
       value: stone-block (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5983013400863962620, guid: 5061e6147ee6a42ebbce544b6f4fa741, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 6362528893434703686, guid: 5061e6147ee6a42ebbce544b6f4fa741, type: 3}
       propertyPath: m_RootOrder
@@ -4986,6 +5450,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence E1
       objectReference: {fileID: 0}
+    - target: {fileID: 6046095855436746551, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 6387191177643595149, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
       propertyPath: m_RootOrder
       value: 12
@@ -5047,6 +5515,14 @@ PrefabInstance:
     - target: {fileID: 2786164879082861943, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
       propertyPath: m_Name
       value: Tile.Dirt.02 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2786164879082861943, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 3148117459284647102, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 4037720724158096327, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
       propertyPath: m_RootOrder
@@ -5119,9 +5595,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 400744372}
     m_Modifications:
+    - target: {fileID: 1016050265, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 1310753598, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 1689347575871606494, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
       propertyPath: m_Name
       value: Sign B
+      objectReference: {fileID: 0}
+    - target: {fileID: 1689347575871606494, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 1891718905972957958, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
       propertyPath: Barriers.Array.size
@@ -5192,6 +5680,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Stone.01 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1039370665492924418, guid: dcd30c6a89497495791c177683ddb8fc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 2222993684677786427, guid: dcd30c6a89497495791c177683ddb8fc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 7463764270453165658, guid: dcd30c6a89497495791c177683ddb8fc, type: 3}
       propertyPath: m_RootOrder
       value: 11
@@ -5245,6 +5741,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 284194475}
     m_Modifications:
+    - target: {fileID: 4682423392260482004, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 5297919291055329019, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
       propertyPath: m_RootOrder
       value: 13
@@ -5293,6 +5793,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Dirt.03 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 9076861554426375828, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
 --- !u!4 &907791282 stripped
@@ -5310,6 +5814,14 @@ PrefabInstance:
     - target: {fileID: 2786164879082861943, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
       propertyPath: m_Name
       value: Tile.Dirt.02 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2786164879082861943, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 3148117459284647102, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 4037720724158096327, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
       propertyPath: m_RootOrder
@@ -5397,9 +5909,17 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 284194475}
     m_Modifications:
+    - target: {fileID: 3151940741389735705, guid: 01ff634b9ae7a495dba24d3980e6d0f7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 3743789377015876673, guid: 01ff634b9ae7a495dba24d3980e6d0f7, type: 3}
       propertyPath: m_Name
       value: Tile.Dirt.01 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3743789377015876673, guid: 01ff634b9ae7a495dba24d3980e6d0f7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 8780744994439628034, guid: 01ff634b9ae7a495dba24d3980e6d0f7, type: 3}
       propertyPath: m_RootOrder
@@ -5457,6 +5977,14 @@ PrefabInstance:
     - target: {fileID: 6436566585233153207, guid: 2f3e1b22c28324db7875bc54aaa0cb2b, type: 3}
       propertyPath: m_Name
       value: Tile.Stone.03 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6436566585233153207, guid: 2f3e1b22c28324db7875bc54aaa0cb2b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 7544708442210085666, guid: 2f3e1b22c28324db7875bc54aaa0cb2b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 7714751358014100393, guid: 2f3e1b22c28324db7875bc54aaa0cb2b, type: 3}
       propertyPath: m_RootOrder
@@ -5520,6 +6048,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence E2 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 6046095855436746551, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 6387191177643595149, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
       propertyPath: m_RootOrder
       value: 22
@@ -5576,6 +6108,14 @@ PrefabInstance:
     - target: {fileID: 1039370665492924418, guid: dcd30c6a89497495791c177683ddb8fc, type: 3}
       propertyPath: m_Name
       value: Tile.Stone.01 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1039370665492924418, guid: dcd30c6a89497495791c177683ddb8fc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 2222993684677786427, guid: dcd30c6a89497495791c177683ddb8fc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 7463764270453165658, guid: dcd30c6a89497495791c177683ddb8fc, type: 3}
       propertyPath: m_RootOrder
@@ -5634,6 +6174,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence C1
       objectReference: {fileID: 0}
+    - target: {fileID: 6046095855436746551, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 6387191177643595149, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
       propertyPath: m_RootOrder
       value: 7
@@ -5687,6 +6231,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 284194475}
     m_Modifications:
+    - target: {fileID: 4682423392260482004, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 5297919291055329019, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
       propertyPath: m_RootOrder
       value: 16
@@ -5735,6 +6283,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Dirt.03 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 9076861554426375828, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
 --- !u!4 &1035271401 stripped
@@ -5762,6 +6314,14 @@ PrefabInstance:
     - target: {fileID: 6436566585233153207, guid: 2f3e1b22c28324db7875bc54aaa0cb2b, type: 3}
       propertyPath: m_Name
       value: Tile.Stone.03 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6436566585233153207, guid: 2f3e1b22c28324db7875bc54aaa0cb2b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 7544708442210085666, guid: 2f3e1b22c28324db7875bc54aaa0cb2b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 7714751358014100393, guid: 2f3e1b22c28324db7875bc54aaa0cb2b, type: 3}
       propertyPath: m_RootOrder
@@ -5820,6 +6380,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Dirt.02 (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 2786164879082861943, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 3148117459284647102, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 4037720724158096327, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
       propertyPath: m_RootOrder
       value: 57
@@ -5873,9 +6441,17 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 66537303}
     m_Modifications:
+    - target: {fileID: 3151940741389735705, guid: 01ff634b9ae7a495dba24d3980e6d0f7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 3743789377015876673, guid: 01ff634b9ae7a495dba24d3980e6d0f7, type: 3}
       propertyPath: m_Name
       value: Tile.Dirt.01 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3743789377015876673, guid: 01ff634b9ae7a495dba24d3980e6d0f7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 8780744994439628034, guid: 01ff634b9ae7a495dba24d3980e6d0f7, type: 3}
       propertyPath: m_RootOrder
@@ -5948,6 +6524,10 @@ PrefabInstance:
     - target: {fileID: 5983013400863962620, guid: 5061e6147ee6a42ebbce544b6f4fa741, type: 3}
       propertyPath: m_Name
       value: stone-block (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5983013400863962620, guid: 5061e6147ee6a42ebbce544b6f4fa741, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 6362528893434703686, guid: 5061e6147ee6a42ebbce544b6f4fa741, type: 3}
       propertyPath: m_RootOrder
@@ -6029,6 +6609,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: stone-block (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 5983013400863962620, guid: 5061e6147ee6a42ebbce544b6f4fa741, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 6362528893434703686, guid: 5061e6147ee6a42ebbce544b6f4fa741, type: 3}
       propertyPath: m_RootOrder
       value: 12
@@ -6082,9 +6666,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 396904398}
     m_Modifications:
+    - target: {fileID: 1016050265, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 1310753598, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 1689347575871606494, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
       propertyPath: m_Name
       value: Sign A
+      objectReference: {fileID: 0}
+    - target: {fileID: 1689347575871606494, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 1891718905972957958, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
       propertyPath: Barriers.Array.size
@@ -6151,9 +6747,17 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 66537303}
     m_Modifications:
+    - target: {fileID: 3151940741389735705, guid: 01ff634b9ae7a495dba24d3980e6d0f7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 3743789377015876673, guid: 01ff634b9ae7a495dba24d3980e6d0f7, type: 3}
       propertyPath: m_Name
       value: Tile.Dirt.01 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3743789377015876673, guid: 01ff634b9ae7a495dba24d3980e6d0f7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 8780744994439628034, guid: 01ff634b9ae7a495dba24d3980e6d0f7, type: 3}
       propertyPath: m_RootOrder
@@ -6208,6 +6812,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 284194475}
     m_Modifications:
+    - target: {fileID: 4682423392260482004, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 5297919291055329019, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
       propertyPath: m_RootOrder
       value: 51
@@ -6256,6 +6864,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Dirt.03 (18)
       objectReference: {fileID: 0}
+    - target: {fileID: 9076861554426375828, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
 --- !u!4 &1140845650 stripped
@@ -6273,6 +6885,10 @@ PrefabInstance:
     - target: {fileID: 5983013400863962620, guid: 5061e6147ee6a42ebbce544b6f4fa741, type: 3}
       propertyPath: m_Name
       value: stone-block (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5983013400863962620, guid: 5061e6147ee6a42ebbce544b6f4fa741, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 6362528893434703686, guid: 5061e6147ee6a42ebbce544b6f4fa741, type: 3}
       propertyPath: m_RootOrder
@@ -6342,9 +6958,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 400744372}
     m_Modifications:
+    - target: {fileID: 1016050265, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 1310753598, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 1689347575871606494, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
       propertyPath: m_Name
       value: Sign F (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1689347575871606494, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 1891718905972957958, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
       propertyPath: Barriers.Array.size
@@ -6411,6 +7039,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 66537303}
     m_Modifications:
+    - target: {fileID: 4682423392260482004, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 5297919291055329019, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
       propertyPath: m_RootOrder
       value: 10
@@ -6459,6 +7091,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Dirt.03 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 9076861554426375828, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
 --- !u!1 &1158141885 stripped
@@ -6481,6 +7117,14 @@ PrefabInstance:
     - target: {fileID: 2786164879082861943, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
       propertyPath: m_Name
       value: Tile.Dirt.02 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2786164879082861943, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 3148117459284647102, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 4037720724158096327, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
       propertyPath: m_RootOrder
@@ -6535,6 +7179,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 284194475}
     m_Modifications:
+    - target: {fileID: 4682423392260482004, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 5297919291055329019, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
       propertyPath: m_RootOrder
       value: 40
@@ -6583,6 +7231,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Dirt.03 (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 9076861554426375828, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
 --- !u!4 &1162318123 stripped
@@ -6618,6 +7270,14 @@ PrefabInstance:
     - target: {fileID: 2786164879082861943, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
       propertyPath: m_Name
       value: Tile.Dirt.02 (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2786164879082861943, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 3148117459284647102, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 4037720724158096327, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
       propertyPath: m_RootOrder
@@ -6672,6 +7332,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 284194475}
     m_Modifications:
+    - target: {fileID: 4682423392260482004, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 5297919291055329019, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -6720,6 +7384,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Dirt.03
       objectReference: {fileID: 0}
+    - target: {fileID: 9076861554426375828, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
 --- !u!1001 &1190371156
@@ -6732,6 +7400,10 @@ PrefabInstance:
     - target: {fileID: 6046095855436746551, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
       propertyPath: m_Name
       value: fence D2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6046095855436746551, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 6387191177643595149, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
       propertyPath: m_RootOrder
@@ -6805,6 +7477,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence G1
       objectReference: {fileID: 0}
+    - target: {fileID: 6046095855436746551, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 6387191177643595149, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
       propertyPath: m_RootOrder
       value: 19
@@ -6868,6 +7544,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 284194475}
     m_Modifications:
+    - target: {fileID: 4682423392260482004, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 5297919291055329019, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
       propertyPath: m_RootOrder
       value: 50
@@ -6916,6 +7596,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Dirt.03 (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 9076861554426375828, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
 --- !u!1001 &1217734096
@@ -6925,6 +7609,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 284194475}
     m_Modifications:
+    - target: {fileID: 4682423392260482004, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 5297919291055329019, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
       propertyPath: m_RootOrder
       value: 10
@@ -6973,6 +7661,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Dirt.03 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 9076861554426375828, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
 --- !u!4 &1220105683 stripped
@@ -6990,6 +7682,14 @@ PrefabInstance:
     - target: {fileID: 2786164879082861943, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
       propertyPath: m_Name
       value: Tile.Dirt.02 (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2786164879082861943, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 3148117459284647102, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 4037720724158096327, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
       propertyPath: m_RootOrder
@@ -7058,6 +7758,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence B2
       objectReference: {fileID: 0}
+    - target: {fileID: 6046095855436746551, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 6387191177643595149, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
       propertyPath: m_RootOrder
       value: 5
@@ -7114,6 +7818,10 @@ PrefabInstance:
     - target: {fileID: 6046095855436746551, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
       propertyPath: m_Name
       value: fence E1 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6046095855436746551, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 6387191177643595149, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
       propertyPath: m_RootOrder
@@ -7173,6 +7881,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 66537303}
     m_Modifications:
+    - target: {fileID: 4682423392260482004, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 5297919291055329019, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
       propertyPath: m_RootOrder
       value: 44
@@ -7221,6 +7933,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Dirt.03 (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 9076861554426375828, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
 --- !u!4 &1266483668 stripped
@@ -7240,9 +7956,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 396904398}
     m_Modifications:
+    - target: {fileID: 1016050265, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 1310753598, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 1689347575871606494, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
       propertyPath: m_Name
       value: Sign F
+      objectReference: {fileID: 0}
+    - target: {fileID: 1689347575871606494, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 1891718905972957958, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
       propertyPath: Barriers.Array.size
@@ -7309,6 +8037,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 284194475}
     m_Modifications:
+    - target: {fileID: 4682423392260482004, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 5297919291055329019, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
       propertyPath: m_RootOrder
       value: 56
@@ -7357,6 +8089,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Dirt.03 (21)
       objectReference: {fileID: 0}
+    - target: {fileID: 9076861554426375828, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
 --- !u!1001 &1279187449
@@ -7369,6 +8105,14 @@ PrefabInstance:
     - target: {fileID: 2786164879082861943, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
       propertyPath: m_Name
       value: Tile.Dirt.02 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2786164879082861943, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 3148117459284647102, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 4037720724158096327, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
       propertyPath: m_RootOrder
@@ -7442,6 +8186,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Dirt.02 (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 2786164879082861943, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 3148117459284647102, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 4037720724158096327, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
       propertyPath: m_RootOrder
       value: 55
@@ -7495,6 +8247,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 284194475}
     m_Modifications:
+    - target: {fileID: 4682423392260482004, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 5297919291055329019, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
       propertyPath: m_RootOrder
       value: 47
@@ -7543,6 +8299,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Dirt.03 (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 9076861554426375828, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
 --- !u!1001 &1311784699
@@ -7552,6 +8312,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 284194475}
     m_Modifications:
+    - target: {fileID: 4682423392260482004, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 5297919291055329019, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
       propertyPath: m_RootOrder
       value: 42
@@ -7600,6 +8364,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Dirt.03 (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 9076861554426375828, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
 --- !u!1001 &1313253431
@@ -7609,6 +8377,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 66537303}
     m_Modifications:
+    - target: {fileID: 4682423392260482004, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 5297919291055329019, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
       propertyPath: m_RootOrder
       value: 58
@@ -7657,6 +8429,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Dirt.03 (22)
       objectReference: {fileID: 0}
+    - target: {fileID: 9076861554426375828, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
 --- !u!4 &1314023336 stripped
@@ -7671,9 +8447,17 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 284194475}
     m_Modifications:
+    - target: {fileID: 3151940741389735705, guid: 01ff634b9ae7a495dba24d3980e6d0f7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 3743789377015876673, guid: 01ff634b9ae7a495dba24d3980e6d0f7, type: 3}
       propertyPath: m_Name
       value: Tile.Dirt.01 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3743789377015876673, guid: 01ff634b9ae7a495dba24d3980e6d0f7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 8780744994439628034, guid: 01ff634b9ae7a495dba24d3980e6d0f7, type: 3}
       propertyPath: m_RootOrder
@@ -7738,6 +8522,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 284194475}
     m_Modifications:
+    - target: {fileID: 4682423392260482004, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 5297919291055329019, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
       propertyPath: m_RootOrder
       value: 44
@@ -7786,6 +8574,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Dirt.03 (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 9076861554426375828, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
 --- !u!1001 &1321412508
@@ -7795,9 +8587,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 400744372}
     m_Modifications:
+    - target: {fileID: 1016050265, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 1310753598, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 1689347575871606494, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
       propertyPath: m_Name
       value: Sign E
+      objectReference: {fileID: 0}
+    - target: {fileID: 1689347575871606494, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 1891718905972957958, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
       propertyPath: Barriers.Array.size
@@ -7867,6 +8671,14 @@ PrefabInstance:
     - target: {fileID: 6436566585233153207, guid: 2f3e1b22c28324db7875bc54aaa0cb2b, type: 3}
       propertyPath: m_Name
       value: Tile.Stone.03 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6436566585233153207, guid: 2f3e1b22c28324db7875bc54aaa0cb2b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 7544708442210085666, guid: 2f3e1b22c28324db7875bc54aaa0cb2b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 7714751358014100393, guid: 2f3e1b22c28324db7875bc54aaa0cb2b, type: 3}
       propertyPath: m_RootOrder
@@ -7963,7 +8775,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &1354756336
 Transform:
@@ -8044,6 +8856,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Stone.03 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 6436566585233153207, guid: 2f3e1b22c28324db7875bc54aaa0cb2b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 7544708442210085666, guid: 2f3e1b22c28324db7875bc54aaa0cb2b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 7714751358014100393, guid: 2f3e1b22c28324db7875bc54aaa0cb2b, type: 3}
       propertyPath: m_RootOrder
       value: 38
@@ -8106,6 +8926,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Stone.01 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 1039370665492924418, guid: dcd30c6a89497495791c177683ddb8fc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 2222993684677786427, guid: dcd30c6a89497495791c177683ddb8fc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 7463764270453165658, guid: dcd30c6a89497495791c177683ddb8fc, type: 3}
       propertyPath: m_RootOrder
       value: 17
@@ -8159,9 +8987,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 396904398}
     m_Modifications:
+    - target: {fileID: 1016050265, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 1310753598, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 1689347575871606494, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
       propertyPath: m_Name
       value: Sign C
+      objectReference: {fileID: 0}
+    - target: {fileID: 1689347575871606494, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 1891718905972957958, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
       propertyPath: Barriers.Array.size
@@ -8228,9 +9068,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 400744372}
     m_Modifications:
+    - target: {fileID: 1016050265, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 1310753598, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 1689347575871606494, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
       propertyPath: m_Name
       value: Sign C
+      objectReference: {fileID: 0}
+    - target: {fileID: 1689347575871606494, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 1891718905972957958, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
       propertyPath: Barriers.Array.size
@@ -8301,6 +9153,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Stone.03 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 6436566585233153207, guid: 2f3e1b22c28324db7875bc54aaa0cb2b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 7544708442210085666, guid: 2f3e1b22c28324db7875bc54aaa0cb2b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 7714751358014100393, guid: 2f3e1b22c28324db7875bc54aaa0cb2b, type: 3}
       propertyPath: m_RootOrder
       value: 15
@@ -8358,6 +9218,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence G2
       objectReference: {fileID: 0}
+    - target: {fileID: 6046095855436746551, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 6387191177643595149, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
       propertyPath: m_RootOrder
       value: 20
@@ -8411,6 +9275,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 66537303}
     m_Modifications:
+    - target: {fileID: 4682423392260482004, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 5297919291055329019, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
       propertyPath: m_RootOrder
       value: 59
@@ -8459,6 +9327,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Dirt.03 (24)
       objectReference: {fileID: 0}
+    - target: {fileID: 9076861554426375828, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
 --- !u!1 &1381588417 stripped
@@ -8494,6 +9366,14 @@ PrefabInstance:
     - target: {fileID: 6436566585233153207, guid: 2f3e1b22c28324db7875bc54aaa0cb2b, type: 3}
       propertyPath: m_Name
       value: Tile.Stone.03 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6436566585233153207, guid: 2f3e1b22c28324db7875bc54aaa0cb2b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 7544708442210085666, guid: 2f3e1b22c28324db7875bc54aaa0cb2b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 7714751358014100393, guid: 2f3e1b22c28324db7875bc54aaa0cb2b, type: 3}
       propertyPath: m_RootOrder
@@ -8562,6 +9442,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence B1
       objectReference: {fileID: 0}
+    - target: {fileID: 6046095855436746551, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 6387191177643595149, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
       propertyPath: m_RootOrder
       value: 4
@@ -8615,9 +9499,17 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 284194475}
     m_Modifications:
+    - target: {fileID: 55060011716693018, guid: 5c15fa69ac79d409d8f6db44fe24de5c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 2957621329886039765, guid: 5c15fa69ac79d409d8f6db44fe24de5c, type: 3}
       propertyPath: m_Name
       value: Tile.Stone.02
+      objectReference: {fileID: 0}
+    - target: {fileID: 2957621329886039765, guid: 5c15fa69ac79d409d8f6db44fe24de5c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 8357678020348872535, guid: 5c15fa69ac79d409d8f6db44fe24de5c, type: 3}
       propertyPath: m_RootOrder
@@ -8691,6 +9583,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence A1
       objectReference: {fileID: 0}
+    - target: {fileID: 6046095855436746551, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 6387191177643595149, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -8748,6 +9644,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence F2
       objectReference: {fileID: 0}
+    - target: {fileID: 6046095855436746551, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 6387191177643595149, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
       propertyPath: m_RootOrder
       value: 16
@@ -8804,6 +9704,10 @@ PrefabInstance:
     - target: {fileID: 6046095855436746551, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
       propertyPath: m_Name
       value: fence E2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6046095855436746551, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 6387191177643595149, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
       propertyPath: m_RootOrder
@@ -8871,6 +9775,14 @@ PrefabInstance:
     - target: {fileID: 2786164879082861943, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
       propertyPath: m_Name
       value: Tile.Dirt.02 (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2786164879082861943, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 3148117459284647102, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 4037720724158096327, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
       propertyPath: m_RootOrder
@@ -8949,6 +9861,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Stone.01 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1039370665492924418, guid: dcd30c6a89497495791c177683ddb8fc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 2222993684677786427, guid: dcd30c6a89497495791c177683ddb8fc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 7463764270453165658, guid: dcd30c6a89497495791c177683ddb8fc, type: 3}
       propertyPath: m_RootOrder
       value: 11
@@ -9002,6 +9922,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 66537303}
     m_Modifications:
+    - target: {fileID: 4682423392260482004, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 5297919291055329019, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
       propertyPath: m_RootOrder
       value: 16
@@ -9049,6 +9973,10 @@ PrefabInstance:
     - target: {fileID: 9076861554426375828, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
       propertyPath: m_Name
       value: Tile.Dirt.03 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9076861554426375828, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
@@ -9114,6 +10042,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 66537303}
     m_Modifications:
+    - target: {fileID: 4682423392260482004, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 5297919291055329019, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
       propertyPath: m_RootOrder
       value: 54
@@ -9162,6 +10094,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Dirt.03 (20)
       objectReference: {fileID: 0}
+    - target: {fileID: 9076861554426375828, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
 --- !u!1001 &1478497888
@@ -9174,6 +10110,14 @@ PrefabInstance:
     - target: {fileID: 2786164879082861943, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
       propertyPath: m_Name
       value: Tile.Dirt.02 (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2786164879082861943, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 3148117459284647102, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 4037720724158096327, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
       propertyPath: m_RootOrder
@@ -9236,6 +10180,10 @@ PrefabInstance:
     - target: {fileID: 6046095855436746551, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
       propertyPath: m_Name
       value: fence E1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6046095855436746551, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 6387191177643595149, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
       propertyPath: m_RootOrder
@@ -9303,6 +10251,14 @@ PrefabInstance:
     - target: {fileID: 2786164879082861943, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
       propertyPath: m_Name
       value: Tile.Dirt.02 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2786164879082861943, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 3148117459284647102, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 4037720724158096327, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
       propertyPath: m_RootOrder
@@ -9377,6 +10333,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 66537303}
     m_Modifications:
+    - target: {fileID: 4682423392260482004, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 5297919291055329019, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
       propertyPath: m_RootOrder
       value: 22
@@ -9425,6 +10385,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Dirt.03 (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 9076861554426375828, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
 --- !u!1001 &1508838870
@@ -9434,6 +10398,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 66537303}
     m_Modifications:
+    - target: {fileID: 4682423392260482004, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 5297919291055329019, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
       propertyPath: m_RootOrder
       value: 13
@@ -9482,6 +10450,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Dirt.03 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 9076861554426375828, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
 --- !u!1 &1514919396 stripped
@@ -9512,6 +10484,14 @@ PrefabInstance:
     - target: {fileID: 2786164879082861943, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
       propertyPath: m_Name
       value: Tile.Dirt.02
+      objectReference: {fileID: 0}
+    - target: {fileID: 2786164879082861943, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 3148117459284647102, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 4037720724158096327, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
       propertyPath: m_RootOrder
@@ -9569,6 +10549,14 @@ PrefabInstance:
     - target: {fileID: 2786164879082861943, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
       propertyPath: m_Name
       value: Tile.Dirt.02 (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2786164879082861943, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 3148117459284647102, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 4037720724158096327, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
       propertyPath: m_RootOrder
@@ -9655,6 +10643,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Dirt.02 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 2786164879082861943, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 3148117459284647102, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 4037720724158096327, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
       propertyPath: m_RootOrder
       value: 7
@@ -9708,9 +10704,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 400744372}
     m_Modifications:
+    - target: {fileID: 1016050265, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 1310753598, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 1689347575871606494, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
       propertyPath: m_Name
       value: Sign A
+      objectReference: {fileID: 0}
+    - target: {fileID: 1689347575871606494, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 1891718905972957958, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
       propertyPath: Barriers.Array.size
@@ -9786,6 +10794,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Stone.01 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 1039370665492924418, guid: dcd30c6a89497495791c177683ddb8fc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 2222993684677786427, guid: dcd30c6a89497495791c177683ddb8fc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 7463764270453165658, guid: dcd30c6a89497495791c177683ddb8fc, type: 3}
       propertyPath: m_RootOrder
       value: 21
@@ -9839,9 +10855,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 396904398}
     m_Modifications:
+    - target: {fileID: 1016050265, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 1310753598, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 1689347575871606494, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
       propertyPath: m_Name
       value: Sign G
+      objectReference: {fileID: 0}
+    - target: {fileID: 1689347575871606494, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 1891718905972957958, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
       propertyPath: Barriers.Array.size
@@ -9913,9 +10941,17 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 66537303}
     m_Modifications:
+    - target: {fileID: 3151940741389735705, guid: 01ff634b9ae7a495dba24d3980e6d0f7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 3743789377015876673, guid: 01ff634b9ae7a495dba24d3980e6d0f7, type: 3}
       propertyPath: m_Name
       value: Tile.Dirt.01 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3743789377015876673, guid: 01ff634b9ae7a495dba24d3980e6d0f7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 8780744994439628034, guid: 01ff634b9ae7a495dba24d3980e6d0f7, type: 3}
       propertyPath: m_RootOrder
@@ -9970,9 +11006,17 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 284194475}
     m_Modifications:
+    - target: {fileID: 3151940741389735705, guid: 01ff634b9ae7a495dba24d3980e6d0f7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 3743789377015876673, guid: 01ff634b9ae7a495dba24d3980e6d0f7, type: 3}
       propertyPath: m_Name
       value: Tile.Dirt.01 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3743789377015876673, guid: 01ff634b9ae7a495dba24d3980e6d0f7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 8780744994439628034, guid: 01ff634b9ae7a495dba24d3980e6d0f7, type: 3}
       propertyPath: m_RootOrder
@@ -10030,6 +11074,10 @@ PrefabInstance:
     - target: {fileID: 5983013400863962620, guid: 5061e6147ee6a42ebbce544b6f4fa741, type: 3}
       propertyPath: m_Name
       value: stone-block (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5983013400863962620, guid: 5061e6147ee6a42ebbce544b6f4fa741, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 6362528893434703686, guid: 5061e6147ee6a42ebbce544b6f4fa741, type: 3}
       propertyPath: m_RootOrder
@@ -10089,6 +11137,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 284194475}
     m_Modifications:
+    - target: {fileID: 4682423392260482004, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 5297919291055329019, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
       propertyPath: m_RootOrder
       value: 54
@@ -10136,6 +11188,10 @@ PrefabInstance:
     - target: {fileID: 9076861554426375828, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
       propertyPath: m_Name
       value: Tile.Dirt.03 (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9076861554426375828, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
@@ -10198,6 +11254,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Stone.01 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 1039370665492924418, guid: dcd30c6a89497495791c177683ddb8fc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 2222993684677786427, guid: dcd30c6a89497495791c177683ddb8fc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 7463764270453165658, guid: dcd30c6a89497495791c177683ddb8fc, type: 3}
       propertyPath: m_RootOrder
       value: 36
@@ -10256,9 +11320,17 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 284194475}
     m_Modifications:
+    - target: {fileID: 55060011716693018, guid: 5c15fa69ac79d409d8f6db44fe24de5c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 2957621329886039765, guid: 5c15fa69ac79d409d8f6db44fe24de5c, type: 3}
       propertyPath: m_Name
       value: Tile.Stone.02 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2957621329886039765, guid: 5c15fa69ac79d409d8f6db44fe24de5c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 8357678020348872535, guid: 5c15fa69ac79d409d8f6db44fe24de5c, type: 3}
       propertyPath: m_RootOrder
@@ -10326,6 +11398,10 @@ PrefabInstance:
     - target: {fileID: 6046095855436746551, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
       propertyPath: m_Name
       value: fence D1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6046095855436746551, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 6387191177643595149, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
       propertyPath: m_RootOrder
@@ -10556,6 +11632,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 284194475}
     m_Modifications:
+    - target: {fileID: 4682423392260482004, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 5297919291055329019, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
       propertyPath: m_RootOrder
       value: 19
@@ -10604,6 +11684,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Dirt.03 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 9076861554426375828, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
 --- !u!1001 &1694190137
@@ -10616,6 +11700,14 @@ PrefabInstance:
     - target: {fileID: 6436566585233153207, guid: 2f3e1b22c28324db7875bc54aaa0cb2b, type: 3}
       propertyPath: m_Name
       value: Tile.Stone.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 6436566585233153207, guid: 2f3e1b22c28324db7875bc54aaa0cb2b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 7544708442210085666, guid: 2f3e1b22c28324db7875bc54aaa0cb2b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 7714751358014100393, guid: 2f3e1b22c28324db7875bc54aaa0cb2b, type: 3}
       propertyPath: m_RootOrder
@@ -10675,6 +11767,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 284194475}
     m_Modifications:
+    - target: {fileID: 4682423392260482004, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 5297919291055329019, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
       propertyPath: m_RootOrder
       value: 53
@@ -10723,6 +11819,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Dirt.03 (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 9076861554426375828, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
 --- !u!1 &1705384564 stripped
@@ -10742,9 +11842,17 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 284194475}
     m_Modifications:
+    - target: {fileID: 3151940741389735705, guid: 01ff634b9ae7a495dba24d3980e6d0f7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 3743789377015876673, guid: 01ff634b9ae7a495dba24d3980e6d0f7, type: 3}
       propertyPath: m_Name
       value: Tile.Dirt.01 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3743789377015876673, guid: 01ff634b9ae7a495dba24d3980e6d0f7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 8780744994439628034, guid: 01ff634b9ae7a495dba24d3980e6d0f7, type: 3}
       propertyPath: m_RootOrder
@@ -10803,6 +11911,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Dirt.02 (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 2786164879082861943, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 3148117459284647102, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 4037720724158096327, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
       propertyPath: m_RootOrder
       value: 45
@@ -10859,6 +11975,14 @@ PrefabInstance:
     - target: {fileID: 2786164879082861943, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
       propertyPath: m_Name
       value: Tile.Dirt.02 (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2786164879082861943, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 3148117459284647102, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 4037720724158096327, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
       propertyPath: m_RootOrder
@@ -10928,6 +12052,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 284194475}
     m_Modifications:
+    - target: {fileID: 4682423392260482004, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 5297919291055329019, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
       propertyPath: m_RootOrder
       value: 26
@@ -10976,6 +12104,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Dirt.03 (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 9076861554426375828, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
 --- !u!4 &1748199516 stripped
@@ -10998,6 +12130,14 @@ PrefabInstance:
     - target: {fileID: 2786164879082861943, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
       propertyPath: m_Name
       value: Tile.Dirt.02 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2786164879082861943, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 3148117459284647102, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 4037720724158096327, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
       propertyPath: m_RootOrder
@@ -11061,6 +12201,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence G2
       objectReference: {fileID: 0}
+    - target: {fileID: 6046095855436746551, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 6387191177643595149, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
       propertyPath: m_RootOrder
       value: 20
@@ -11122,6 +12266,14 @@ PrefabInstance:
     - target: {fileID: 1039370665492924418, guid: dcd30c6a89497495791c177683ddb8fc, type: 3}
       propertyPath: m_Name
       value: Tile.Stone.01
+      objectReference: {fileID: 0}
+    - target: {fileID: 1039370665492924418, guid: dcd30c6a89497495791c177683ddb8fc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 2222993684677786427, guid: dcd30c6a89497495791c177683ddb8fc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 7463764270453165658, guid: dcd30c6a89497495791c177683ddb8fc, type: 3}
       propertyPath: m_RootOrder
@@ -11200,6 +12352,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Stone.03 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 6436566585233153207, guid: 2f3e1b22c28324db7875bc54aaa0cb2b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 7544708442210085666, guid: 2f3e1b22c28324db7875bc54aaa0cb2b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 7714751358014100393, guid: 2f3e1b22c28324db7875bc54aaa0cb2b, type: 3}
       propertyPath: m_RootOrder
       value: 15
@@ -11256,6 +12416,10 @@ PrefabInstance:
     - target: {fileID: 6046095855436746551, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
       propertyPath: m_Name
       value: fence A2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6046095855436746551, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 6387191177643595149, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
       propertyPath: m_RootOrder
@@ -11335,6 +12499,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 284194475}
     m_Modifications:
+    - target: {fileID: 4682423392260482004, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 5297919291055329019, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
       propertyPath: m_RootOrder
       value: 58
@@ -11383,6 +12551,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Dirt.03 (22)
       objectReference: {fileID: 0}
+    - target: {fileID: 9076861554426375828, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
 --- !u!4 &1811653061 stripped
@@ -11400,6 +12572,10 @@ PrefabInstance:
     - target: {fileID: 5983013400863962620, guid: 5061e6147ee6a42ebbce544b6f4fa741, type: 3}
       propertyPath: m_Name
       value: stone-block (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5983013400863962620, guid: 5061e6147ee6a42ebbce544b6f4fa741, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 6362528893434703686, guid: 5061e6147ee6a42ebbce544b6f4fa741, type: 3}
       propertyPath: m_RootOrder
@@ -11458,6 +12634,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: fence C2
       objectReference: {fileID: 0}
+    - target: {fileID: 6046095855436746551, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 6387191177643595149, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
       propertyPath: m_RootOrder
       value: 8
@@ -11514,6 +12694,10 @@ PrefabInstance:
     - target: {fileID: 6046095855436746551, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
       propertyPath: m_Name
       value: fence C2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6046095855436746551, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 6387191177643595149, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
       propertyPath: m_RootOrder
@@ -11596,6 +12780,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 66537303}
     m_Modifications:
+    - target: {fileID: 4682423392260482004, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 5297919291055329019, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
       propertyPath: m_RootOrder
       value: 40
@@ -11644,6 +12832,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Dirt.03 (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 9076861554426375828, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
 --- !u!4 &1829780637 stripped
@@ -11679,6 +12871,14 @@ PrefabInstance:
     - target: {fileID: 2786164879082861943, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
       propertyPath: m_Name
       value: Tile.Dirt.02 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2786164879082861943, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 3148117459284647102, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 4037720724158096327, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
       propertyPath: m_RootOrder
@@ -11773,9 +12973,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 396904398}
     m_Modifications:
+    - target: {fileID: 1016050265, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 1310753598, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 1689347575871606494, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
       propertyPath: m_Name
       value: Sign E
+      objectReference: {fileID: 0}
+    - target: {fileID: 1689347575871606494, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 1891718905972957958, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
       propertyPath: Barriers.Array.size
@@ -11862,9 +13074,17 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 66537303}
     m_Modifications:
+    - target: {fileID: 3151940741389735705, guid: 01ff634b9ae7a495dba24d3980e6d0f7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 3743789377015876673, guid: 01ff634b9ae7a495dba24d3980e6d0f7, type: 3}
       propertyPath: m_Name
       value: Tile.Dirt.01 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3743789377015876673, guid: 01ff634b9ae7a495dba24d3980e6d0f7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 8780744994439628034, guid: 01ff634b9ae7a495dba24d3980e6d0f7, type: 3}
       propertyPath: m_RootOrder
@@ -11919,9 +13139,17 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 66537303}
     m_Modifications:
+    - target: {fileID: 3151940741389735705, guid: 01ff634b9ae7a495dba24d3980e6d0f7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 3743789377015876673, guid: 01ff634b9ae7a495dba24d3980e6d0f7, type: 3}
       propertyPath: m_Name
       value: Tile.Dirt.01 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3743789377015876673, guid: 01ff634b9ae7a495dba24d3980e6d0f7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 8780744994439628034, guid: 01ff634b9ae7a495dba24d3980e6d0f7, type: 3}
       propertyPath: m_RootOrder
@@ -11986,6 +13214,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 66537303}
     m_Modifications:
+    - target: {fileID: 4682423392260482004, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 5297919291055329019, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
       propertyPath: m_RootOrder
       value: 27
@@ -12034,6 +13266,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Dirt.03 (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 9076861554426375828, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
 --- !u!4 &1978755703 stripped
@@ -12066,6 +13302,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 66537303}
     m_Modifications:
+    - target: {fileID: 4682423392260482004, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 5297919291055329019, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
       propertyPath: m_RootOrder
       value: 53
@@ -12114,6 +13354,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Dirt.03 (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 9076861554426375828, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
 --- !u!4 &1998793699 stripped
@@ -12131,6 +13375,14 @@ PrefabInstance:
     - target: {fileID: 1039370665492924418, guid: dcd30c6a89497495791c177683ddb8fc, type: 3}
       propertyPath: m_Name
       value: Tile.Stone.01 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1039370665492924418, guid: dcd30c6a89497495791c177683ddb8fc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 2222993684677786427, guid: dcd30c6a89497495791c177683ddb8fc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 7463764270453165658, guid: dcd30c6a89497495791c177683ddb8fc, type: 3}
       propertyPath: m_RootOrder
@@ -12185,6 +13437,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 66537303}
     m_Modifications:
+    - target: {fileID: 4682423392260482004, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 5297919291055329019, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
       propertyPath: m_RootOrder
       value: 19
@@ -12233,6 +13489,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Dirt.03 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 9076861554426375828, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
 --- !u!1 &2002684159 stripped
@@ -12255,6 +13515,10 @@ PrefabInstance:
     - target: {fileID: 6046095855436746551, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
       propertyPath: m_Name
       value: fence A2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6046095855436746551, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 6387191177643595149, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
       propertyPath: m_RootOrder
@@ -12318,6 +13582,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: stone-block (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 5983013400863962620, guid: 5061e6147ee6a42ebbce544b6f4fa741, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 6362528893434703686, guid: 5061e6147ee6a42ebbce544b6f4fa741, type: 3}
       propertyPath: m_RootOrder
       value: 10
@@ -12376,9 +13644,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 400744372}
     m_Modifications:
+    - target: {fileID: 1016050265, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 1310753598, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 1689347575871606494, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
       propertyPath: m_Name
       value: Sign D
+      objectReference: {fileID: 0}
+    - target: {fileID: 1689347575871606494, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 1891718905972957958, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
       propertyPath: Barriers.Array.size
@@ -12449,6 +13729,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: stone-block (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 5983013400863962620, guid: 5061e6147ee6a42ebbce544b6f4fa741, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 6362528893434703686, guid: 5061e6147ee6a42ebbce544b6f4fa741, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -12517,6 +13801,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 284194475}
     m_Modifications:
+    - target: {fileID: 4682423392260482004, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 5297919291055329019, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
       propertyPath: m_RootOrder
       value: 59
@@ -12564,6 +13852,10 @@ PrefabInstance:
     - target: {fileID: 9076861554426375828, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
       propertyPath: m_Name
       value: Tile.Dirt.03 (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9076861554426375828, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
@@ -12674,9 +13966,17 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 284194475}
     m_Modifications:
+    - target: {fileID: 3151940741389735705, guid: 01ff634b9ae7a495dba24d3980e6d0f7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 3743789377015876673, guid: 01ff634b9ae7a495dba24d3980e6d0f7, type: 3}
       propertyPath: m_Name
       value: Tile.Dirt.01
+      objectReference: {fileID: 0}
+    - target: {fileID: 3743789377015876673, guid: 01ff634b9ae7a495dba24d3980e6d0f7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 8780744994439628034, guid: 01ff634b9ae7a495dba24d3980e6d0f7, type: 3}
       propertyPath: m_RootOrder
@@ -12734,6 +14034,10 @@ PrefabInstance:
     - target: {fileID: 5983013400863962620, guid: 5061e6147ee6a42ebbce544b6f4fa741, type: 3}
       propertyPath: m_Name
       value: stone-block (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5983013400863962620, guid: 5061e6147ee6a42ebbce544b6f4fa741, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 6362528893434703686, guid: 5061e6147ee6a42ebbce544b6f4fa741, type: 3}
       propertyPath: m_RootOrder
@@ -12826,6 +14130,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 66537303}
     m_Modifications:
+    - target: {fileID: 4682423392260482004, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 5297919291055329019, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
       propertyPath: m_RootOrder
       value: 9
@@ -12874,6 +14182,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Dirt.03 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 9076861554426375828, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
 --- !u!1001 &2122380327
@@ -12883,9 +14195,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 400744372}
     m_Modifications:
+    - target: {fileID: 1016050265, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 1310753598, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 1689347575871606494, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
       propertyPath: m_Name
       value: Sign G
+      objectReference: {fileID: 0}
+    - target: {fileID: 1689347575871606494, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 1891718905972957958, guid: f7a2ee503b8094d80a96d11e940f8c82, type: 3}
       propertyPath: Barriers.Array.size
@@ -12965,6 +14289,10 @@ PrefabInstance:
     - target: {fileID: 6046095855436746551, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
       propertyPath: m_Name
       value: fence D2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6046095855436746551, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 6387191177643595149, guid: 8841692c9fb614eae95a43f02a7e8cfb, type: 3}
       propertyPath: m_RootOrder
@@ -13116,6 +14444,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Dirt.02 (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 2786164879082861943, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 3148117459284647102, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 4037720724158096327, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
       propertyPath: m_RootOrder
       value: 43
@@ -13200,6 +14536,14 @@ PrefabInstance:
     - target: {fileID: 1039370665492924418, guid: dcd30c6a89497495791c177683ddb8fc, type: 3}
       propertyPath: m_Name
       value: Tile.Stone.01
+      objectReference: {fileID: 0}
+    - target: {fileID: 1039370665492924418, guid: dcd30c6a89497495791c177683ddb8fc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 2222993684677786427, guid: dcd30c6a89497495791c177683ddb8fc, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 7463764270453165658, guid: dcd30c6a89497495791c177683ddb8fc, type: 3}
       propertyPath: m_RootOrder
@@ -13332,6 +14676,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Stone.03
       objectReference: {fileID: 0}
+    - target: {fileID: 6436566585233153207, guid: 2f3e1b22c28324db7875bc54aaa0cb2b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 7544708442210085666, guid: 2f3e1b22c28324db7875bc54aaa0cb2b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 7714751358014100393, guid: 2f3e1b22c28324db7875bc54aaa0cb2b, type: 3}
       propertyPath: m_RootOrder
       value: 5
@@ -13385,9 +14737,17 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 66537303}
     m_Modifications:
+    - target: {fileID: 3151940741389735705, guid: 01ff634b9ae7a495dba24d3980e6d0f7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 3743789377015876673, guid: 01ff634b9ae7a495dba24d3980e6d0f7, type: 3}
       propertyPath: m_Name
       value: Tile.Dirt.01
+      objectReference: {fileID: 0}
+    - target: {fileID: 3743789377015876673, guid: 01ff634b9ae7a495dba24d3980e6d0f7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 8780744994439628034, guid: 01ff634b9ae7a495dba24d3980e6d0f7, type: 3}
       propertyPath: m_RootOrder
@@ -13574,6 +14934,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 66537303}
     m_Modifications:
+    - target: {fileID: 4682423392260482004, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 5297919291055329019, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -13622,6 +14986,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tile.Dirt.03
       objectReference: {fileID: 0}
+    - target: {fileID: 9076861554426375828, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 746a73d22e36c4023a27d7c791e6ffa7, type: 3}
 --- !u!1001 &5928516977705430742
@@ -13631,9 +14999,17 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 66537303}
     m_Modifications:
+    - target: {fileID: 55060011716693018, guid: 5c15fa69ac79d409d8f6db44fe24de5c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 2957621329886039765, guid: 5c15fa69ac79d409d8f6db44fe24de5c, type: 3}
       propertyPath: m_Name
       value: Tile.Stone.02
+      objectReference: {fileID: 0}
+    - target: {fileID: 2957621329886039765, guid: 5c15fa69ac79d409d8f6db44fe24de5c, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 8357678020348872535, guid: 5c15fa69ac79d409d8f6db44fe24de5c, type: 3}
       propertyPath: m_RootOrder
@@ -13738,7 +15114,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!1 &6335556290709499422
 GameObject:
@@ -13756,7 +15132,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &6757550913497823859
 Transform:
@@ -13796,6 +15172,10 @@ PrefabInstance:
     - target: {fileID: 5983013400863962620, guid: 5061e6147ee6a42ebbce544b6f4fa741, type: 3}
       propertyPath: m_Name
       value: stone-block
+      objectReference: {fileID: 0}
+    - target: {fileID: 5983013400863962620, guid: 5061e6147ee6a42ebbce544b6f4fa741, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 6362528893434703686, guid: 5061e6147ee6a42ebbce544b6f4fa741, type: 3}
       propertyPath: m_RootOrder
@@ -13871,6 +15251,14 @@ PrefabInstance:
     - target: {fileID: 2786164879082861943, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
       propertyPath: m_Name
       value: Tile.Dirt.02
+      objectReference: {fileID: 0}
+    - target: {fileID: 2786164879082861943, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 3148117459284647102, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 4037720724158096327, guid: ffa438107fb5d403c9f86f275020ceb4, type: 3}
       propertyPath: m_RootOrder
@@ -13996,5 +15384,5 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
